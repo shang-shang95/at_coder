@@ -1,0 +1,4 @@
+{
+	"editor.detectIndentation": false,
+	"ruby.rubocop.onSave": false
+}
