@@ -1,0 +1,2 @@
+# このリポジトリについて
+AtcoderのBeginners Selectionを解いたもの
